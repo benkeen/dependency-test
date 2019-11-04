@@ -1,6 +1,6 @@
 {
   "name": "@benkeentestorg/dependency-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,8 @@
     "react": "^16.8.1",
     "react-dom": "^16.8.1"
   },
-  "dependencies": {
-    "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+  "peerDependencies": {
+    "react": ">=16.8",
+    "react-dom": ">=16.8"
   }
 }
