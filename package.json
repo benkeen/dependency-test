@@ -1,6 +1,6 @@
 {
   "name": "@benkeentestorg/dependency-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/benkeen/dependency-test#readme",
   "devDependencies": {
-    "react": "^16.8.1"
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
   },
   "dependencies": {
-    "react": "^16.8.1"  
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
   }
 }
