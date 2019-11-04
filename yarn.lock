@@ -2,6 +2,14 @@
 # yarn lockfile v1
 
 
+"@benkeentestorg/dependency-test@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@benkeentestorg/dependency-test/-/dependency-test-1.0.1.tgz#cc04f8aa8223755f9826aec3b8a18703b52e4b40"
+  integrity sha512-c7AWDSirZx3SsjqqncxbFCVizxfU9YG4ioazYKRi6pyyRxImlAQ58Ae82Uf1k/prsSDRJSJFxu92G40JHBm7Jg==
+  dependencies:
+    react "^16.8.1"
+    react-dom "^16.8.1"
+
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
